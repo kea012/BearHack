@@ -1,5 +1,5 @@
 const Home = () => {
-  return <> edit </>;
+  return <> edit kennys changes </>;
 };
 
 export default Home;
